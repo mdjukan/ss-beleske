@@ -1,0 +1,325 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
+  <diagram name="Page-1" id="swZ0b6AuEk4OKBvZsMdK">
+    <mxGraphModel dx="4118" dy="1425" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.16;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-105" target="dU7b-kmmMyZjFtaWNB0u-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2520" y="420" as="sourcePoint" />
+            <mxPoint x="2520" y="263" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2470" y="423" />
+              <mxPoint x="2470" y="254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1120" y="760" as="sourcePoint" />
+            <mxPoint x="-1120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-4" target="dU7b-kmmMyZjFtaWNB0u-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-980" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="400" width="310" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-7" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;Code Segment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="510" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#006600);" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="250" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-11" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;Data Segment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1328" y="306" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;exitX=0.013;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.985;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-4" target="dU7b-kmmMyZjFtaWNB0u-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1070" y="510" as="sourcePoint" />
+            <mxPoint x="-1020" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-14" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;PLT - Procedure Linkage Table&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="400" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-15" target="dU7b-kmmMyZjFtaWNB0u-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-980" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-15" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;GOT - Global Offset Table&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="250" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;exitX=0.013;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dU7b-kmmMyZjFtaWNB0u-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1112" y="310" as="sourcePoint" />
+            <mxPoint x="-840" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-810" y="750" as="sourcePoint" />
+            <mxPoint x="-810" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="400" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="250" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-29" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;Код сегмент јe заједнички за све процесе који користе дељену библиотеку&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="750" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-31" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;Сваки процес који корсти дељену библиотеку има свој примерак сегмета са подацима&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="80" width="280" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-62" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;RW.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-63" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;R.X&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="620" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-64" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 21px;&quot;&gt;PIC (Position Independent Code)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="20" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.49" y="770" as="sourcePoint" />
+            <mxPoint x="679" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#006600);" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="780" as="sourcePoint" />
+            <mxPoint x="1050" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-71" value="&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;font&gt;&amp;nbsp;...&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;foo:&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;mov&amp;nbsp; rax,QWORD PTR [rip+GOT@var]&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;add  DWORD PTR [rax],0x1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ret&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.599;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" target="dU7b-kmmMyZjFtaWNB0u-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="513" as="sourcePoint" />
+            <mxPoint x="680" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="513" />
+              <mxPoint x="600" y="360" />
+              <mxPoint x="620" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-79" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Дељена PIC библотека увози променљиву&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-80" value="&lt;blockquote&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;extern int var;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;font&gt;void foo() {&lt;/font&gt;&lt;br&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;var += 1;&lt;/font&gt;&lt;br&gt;&lt;font&gt;}&lt;/font&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="510" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-81" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 23px;&quot;&gt;src.c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-84" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; [Global Offset Table]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;&amp;lt;GOT@var&amp;gt;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;R_X86_64_GLOB_DAT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-86" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Релокациони запис који разрашава динамички линкер у тренутку учитавања бибилиотеке у меморију, тако што уписује адресу променљиве&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="280" width="289" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-87" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Дељена PIC библотека увози процедуру (eager binding)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="60" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-88" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Дељена PIC библотека увози процедуру (lazy binding)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="50" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2540.49" y="840" as="sourcePoint" />
+            <mxPoint x="2540" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="2540" y="350" width="340" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#006600);" vertex="1" parent="1">
+          <mxGeometry x="2540" y="170" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-93" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2880" y="840" as="sourcePoint" />
+            <mxPoint x="2880" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-94" value="&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;font&gt;&amp;nbsp;...&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;bar:&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;call foo@plt&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ret&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="470" width="284" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-97" value="&lt;blockquote&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;extern void foo();&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;void bar() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;foo();&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="530" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-98" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;src.c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-103" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;exitX=0.013;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2548" y="474.6" as="sourcePoint" />
+            <mxPoint x="2880" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-104" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;[PLT - Procedure Linkage Table]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="360" width="326" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-105" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;&amp;lt;foo@plt&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;jmp&amp;nbsp; &amp;nbsp; QWORD PTR [rip+GOT@foo]&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="400" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-106" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;font style=&quot;font-size: 16px;&quot;&gt;[Global Offset Table]&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;&amp;lt;GOT@foo&amp;gt;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;R_X86_64_JUMP_SLOT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="190" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-110" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Релокациони запис који разрашава динамички линкер у тренутку учитавања бибилиотеке у меморију, тако што уписује адресу функције&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="220" width="249" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-112" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4333.49" y="820" as="sourcePoint" />
+            <mxPoint x="4333" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="4333" y="350" width="317" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#006600);" vertex="1" parent="1">
+          <mxGeometry x="4333" y="180" width="317" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-116" value="&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;font&gt;...&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;bar:&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;call foo@plt&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ret&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4333" y="500" width="284" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-117" value="&lt;blockquote&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Courier New&quot;&gt;extern void foo();&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Courier New&quot;&gt;void bar() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;foo();&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Courier New&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="580" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-118" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;src.c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-119" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.013;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.985;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4337" y="529.67" as="sourcePoint" />
+            <mxPoint x="4609" y="529.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-120" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;[PLT - Procedure Linkage Table]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4333" y="355" width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.009;exitY=0.434;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=1;startArrow=classic;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-113" target="dU7b-kmmMyZjFtaWNB0u-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4701" y="485" />
+              <mxPoint x="4701" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-121" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;&amp;lt;foo@plt&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;jmp&amp;nbsp; &amp;nbsp; QWORD PTR [rip+GOT@foo]&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;push&amp;nbsp; &amp;nbsp;0x0&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;jmp&amp;nbsp; &amp;nbsp; plt@base&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4333" y="455" width="347" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-122" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; [Global Offset Table]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;&amp;lt;GOT@foo&amp;gt;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;R_X86_64_JUMP_SLOT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot; style=&quot;line-height: 130%; font-size: 16px;&quot;&gt;&amp;nbsp;...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4330" y="190" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-126" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&amp;lt;foo@base&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;jmp&amp;nbsp; &amp;nbsp; *dynamic-linker*&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4333" y="380" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-121" target="dU7b-kmmMyZjFtaWNB0u-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4261" y="470" />
+              <mxPoint x="4261" y="252" />
+              <mxPoint x="4330" y="252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-133" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="dU7b-kmmMyZjFtaWNB0u-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4520" y="250" as="sourcePoint" />
+            <mxPoint x="4810" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4570" y="250" />
+              <mxPoint x="4780" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-134" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Релокациони запис није разрашен при учитавању библитеке у меморију.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Биће разрешен при првом позиву функције.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4730" y="170" width="279" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-135" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;У тренутку првог позива функције на адреси &amp;lt;GOT@foo&amp;gt; се налази адреса друге инструкције из &amp;lt;foo@plt&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="300" width="249" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-136" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4650.49" y="810" as="sourcePoint" />
+            <mxPoint x="4650" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-139" value="" style="curved=1;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 2;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4241" y="550" as="sourcePoint" />
+            <mxPoint x="4333" y="487" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4231" y="520" />
+              <mxPoint x="4283" y="487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-140" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;На стек поставља индетификатор симбола који динамички линкер треба да разреши&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4110" y="550" width="191" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-141" value="" style="endArrow=classicThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;endFill=1;strokeWidth=2;" edge="1" parent="1" source="dU7b-kmmMyZjFtaWNB0u-121" target="dU7b-kmmMyZjFtaWNB0u-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4311" y="560" as="sourcePoint" />
+            <mxPoint x="4311" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4281" y="500" />
+              <mxPoint x="4281" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-142" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4590" y="410" as="sourcePoint" />
+            <mxPoint x="4881.833333333334" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4571" y="410" />
+              <mxPoint x="4771" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-143" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Позив динамичком линкеру који мења садржај &amp;lt;GOT@foo&amp;gt; на адреду функције, и извршава је&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4840" y="470" width="209" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-144" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" target="dU7b-kmmMyZjFtaWNB0u-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="360" as="sourcePoint" />
+            <mxPoint x="910" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="360" />
+              <mxPoint x="1170" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dU7b-kmmMyZjFtaWNB0u-146" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="dU7b-kmmMyZjFtaWNB0u-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2740" y="250" as="sourcePoint" />
+            <mxPoint x="2790" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2790" y="250" />
+              <mxPoint x="2990" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
