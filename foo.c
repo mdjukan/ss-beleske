@@ -1,6 +1,6 @@
-extern void xor();
+extern void foo();
 
 int main() {
-    xor();
+    foo();
     return 0;
 }

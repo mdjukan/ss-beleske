@@ -1,10 +1,10 @@
 .intel_syntax noprefix
+.global _start
 
 .section .data
-x: .quad 60
+.quad .
 
 .section .text
 _start:
-    xor rdi, rdi
-    mov rax, offset x
-    syscall
+    mov rax, 0
+    mov rax, .
