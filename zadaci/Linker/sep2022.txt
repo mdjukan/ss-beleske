@@ -1,0 +1,28 @@
+izlaz.o
+
+#Section Table
+Num  Address   Size Type       Flags Name
+1    0         5c   PROGBITS   AX    .text
+2    0         8    PROGBITS   WA    .data
+3    0         28   NOBITS     WA    .bss
+
+#Symbol Table
+Num  Value  Size  Type     Bind   Ndx  Name
+0    0      0     NOTYPE   LOC    UND   
+1    0      0     SCTN     LOC    1    .text
+2    0      0     SCTN     LOC    2    .data
+3    0      0     SCTN     LOC    3    .bss
+4    4      0     NOTYPE   LOC    2    b
+5    1a     0     OBJECT   GLOB   3    c
+6    10     0     NOTYPE   GLOB   3    d
+7    13     0     FUNC     GLOB   1    a
+
+#Relocations for .text
+Offset    Type        Symbol    Addend
+4         ABS32       7 (a)     0
+b         PC32        5 (c)     -4
+55        PC32        7 (a)     -4
+
+#Relocations for .data
+Offset    Type        Symbol    Addend
+2         ABS32       3 (.bss)  12 

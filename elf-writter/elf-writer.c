@@ -41,8 +41,10 @@ int main() {
     elf_header.e_shoff = sizeof(Elf64_Ehdr) + sizeof(Elf64_Phdr); 
     elf_header.e_flags = 0;
     elf_header.e_ehsize = sizeof(Elf64_Ehdr);
+
     elf_header.e_phentsize = sizeof(Elf64_Phdr);
     elf_header.e_phnum = 1; //samo jedan segment
+                           
     elf_header.e_shentsize = sizeof(Elf64_Shdr);
     elf_header.e_shnum = 3; //samo jedna sekcija
     elf_header.e_shstrndx = 2;
@@ -55,7 +57,7 @@ int main() {
     code_program_header.p_filesz = sizeof(code);
     code_program_header.p_memsz = sizeof(code);
     code_program_header.p_align = 0x1000;
-    code_program_header.p_vaddr = CODE_VADDR; //ignored?
+    code_program_header.p_vaddr = CODE_VADDR;
     code_program_header.p_paddr = 0;
 
     Elf64_Shdr zero_section_header = {0};

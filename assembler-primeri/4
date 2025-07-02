@@ -1,0 +1,10 @@
+.global s
+
+.section X
+
+.word 0xaabb
+.dword 0xaabbccdd
+.int 0xaabbccdd
+.long 0xaabbccdd
+
+
